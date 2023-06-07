@@ -3,7 +3,7 @@
 using namespace std;
 
 
-bool pointHit(float x, float y) {
+bool CheckPointHit(float x, float y) {
 
 	bool checkInsideCircle = (pow(x, 2) + pow(y, 2) <= pow(1, 2))&&(x <= 0 && y <= 0);
 	bool checkInsideSquare = ((x <= 0 && x >= -1) && (y >= 0 && y <= 1));
