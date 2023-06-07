@@ -52,7 +52,7 @@ int main() {
 		}
 	}
 
-	if (pointHit(x, y)) {
+	if (CheckPointHit(x, y)) {
 
 		cout << "Yes";
 	}
