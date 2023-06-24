@@ -1,0 +1,3 @@
+﻿  Exam.cpp
+C:\Exam\Exam\Exam\Exam.cpp(60): warning C4715: swithArifmetic: значение возвращается не при всех путях выполнения
+  Exam.vcxproj -> C:\Exam\Exam\x64\Debug\Exam.exe
